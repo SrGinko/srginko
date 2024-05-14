@@ -52,7 +52,8 @@
 <br>
 <br>
 <br>
-
+<div aling = "left">
+    <div>
 <h4> Linguagens e FrameWork Principais >> </h4>
 <div align= "left"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -78,6 +79,9 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
     </div>
+</div>
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
 <br>
 <br>
 <hr>
