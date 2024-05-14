@@ -8,7 +8,7 @@
 <br>
 
 <div align="justify">
-    <i><b>Olá</b> :wave:, sou o <code>Pedro Monteiro</code>, uma de minhas paixões e programar, atualmente estou estudando algumas liguagens como <code>JavaScript</code>code>, <code>Ajax</code> e <code>Node</code> aqui no GitHub está alguns de meus projetos feitos durante minha carreira de estudante ou projetos pessoais e também um pouco sobre mim e minha práticas na hora de <code>codar</code> .</i><br/>
+    <i><b>Olá</b> :wave:, sou o <code>Pedro Monteiro</code>, uma de minhas paixões é programar, atualmente estou estudando algumas liguagens como <code>JavaScript</code>code>, <code>Ajax</code> e <code>Node</code> aqui no GitHub está alguns de meus projetos feitos durante minha carreira de estudante ou projetos pessoais e também um pouco sobre mim e minhas práticas na hora de <code>codar</code> .</i><br/>
 </div>
 <br>
 <br>
@@ -85,7 +85,7 @@
 <br>
 <br>
 <hr>
-<h4> |Statisticas| >> </h4>
+<h4> |Estatísticas| >> </h4>
 
 <img height="20" alt="GIF"
     src="https://github.com/srginko/srginko/blob/main/img/dev.gif?raw=true"/>GitHub Stats:
