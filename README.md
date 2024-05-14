@@ -88,7 +88,7 @@
 <h4> |Statisticas| >> </h4>
 
 <img height="20" alt="GIF"
-    src="https://github.com/srginko/srginko/blob/main/img/graphic.gif?raw=true" />GitHub Stats:
+    src="https://github.com/srginko/srginko/blob/main/img/graphic.gif?raw=true" whidth = "320px" height = "200px "/>GitHub Stats:
 
 <div>
     <img align="right" alt="GitHub Details" width="420px"
