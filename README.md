@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
     </div>
 </div>
-    <div align = "right"> <img src = "[https://github.com/srginko/srginko/blob/main/img/fundo.jpg?raw=true](https://images.rawpixel.com/dark_image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3N2MTk5MTczLWltYWdlLnBuZw.png)" /> </div>
+    <div align = "right"> <img src = "https://images.rawpixel.com/dark_image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3N2MTk5MTczLWltYWdlLnBuZw.png" /> </div>
 </div>
 <br>
 <br>
@@ -88,7 +88,7 @@
 <h4> |Statisticas| >> </h4>
 
 <img height="20" alt="GIF"
-    src="https://images.rawpixel.com/dark_image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3N2MTk5MTczLWltYWdlLnBuZw.png"/>GitHub Stats:
+    src="https://github.com/srginko/srginko/blob/main/img/dev.gif?raw=true"/>GitHub Stats:
 
 <div>
     <img align="right" alt="GitHub Details" width="420px"
