@@ -23,7 +23,7 @@
         <tr>
             <td><a href="https://github.com/srginko" target="_blank"><img
                         src="https://github.com/srginko/srginko/blob/main/img/github5.png?raw=true"
-                        width="50px" height="50px" /></a>
+                        width="30px" height="30px" /></a>
             </td>
             <td><a href="https://replit.com/@aramuni"><img
                         src="https://github.com/srginko/srginko/blob/main/img/replit3.svg?raw=true"
