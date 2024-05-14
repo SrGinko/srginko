@@ -74,9 +74,10 @@
 <br>
 <br>
 <h4> IDEs e Ferramentas que utilizo >> </h4>
-    <div align= "left"><img src=""/>
+    <div align= "left">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img src=""/></div>
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+    </div>
 <br>
 <br>
 <hr>
