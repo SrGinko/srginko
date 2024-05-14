@@ -25,12 +25,12 @@
                         src="https://github.com/srginko/srginko/blob/main/img/discord.png?raw=true"
                         width="32px" height="32px" /></a>
             </td>
-            <td><a href="https://replit.com/@aramuni"><img
-                        src="https://github.com/srginko/srginko/blob/main/img/replit3.svg?raw=true"
+            <td><a href=" "><img
+                        src="https://github.com/srginko/srginko/blob/main/img/instagram.png?raw=true"
                         width="32px" height="32px" /></a>
             </td>
-            <td><a href="mailto:srginko@gmail.com" target="_blank"><img
-                        src="https://github.com/srginko/srginko/blob/main/img/gmail3.png?raw=true"
+            <td><a href="mailto:pedeohenriquecardoso@gmail.com" target="_blank"><img
+                        src="https://github.com/srginko/srginko/blob/main/img/linkedin.png?raw=true"
                         width="32px" height="32px" /></a>
             </td>
             <td><a href="https://wa.me/5531980402103" target="_blank"><img
