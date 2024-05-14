@@ -21,7 +21,7 @@
             <td align="center" colspan="11"></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/srginko" target="_blank"><img
+            <td><a href="https://discordapp.com/users/770818264691114016" target="_blank"><img
                         src="https://github.com/srginko/srginko/blob/main/img/discord.png?raw=true"
                         width="32px" height="32px" /></a>
             </td>
