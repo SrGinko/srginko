@@ -71,7 +71,7 @@
 <br>
 <br>
 <br>
------
+<hr>
 <h4> |Statisticas| >> </h4>
 
 <img height="20" alt="GIF"
