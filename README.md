@@ -46,7 +46,8 @@
             <td align="center" colspan="11"></td>
         </tr>
     </table>
-
 </div>
 
+<h4> Linguagens Principais >> </h4>
+<div align= "right"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></div>
 -----
