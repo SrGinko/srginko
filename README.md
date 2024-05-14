@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<h3>Redes Sociais</h3>
+<h4>Redes Sociais >> </h4>
 
 <div align="center">
     <table>
