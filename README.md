@@ -47,9 +47,13 @@
         </tr>
     </table>
 </div>
+<br>
+<br>
+<br>
+<br>
 
 <h4> Linguagens ou FrameWork Principais >> </h4>
-<div align= "left"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />}
+<div align= "left"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"</div>
 
@@ -60,7 +64,23 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
-
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br>
+</div>
 <br>
+<br>
+<br>
+<br>
+<h4> |Statisticas| >> </h4>
+
+<img height="20" alt="GIF"
+    src="https://github.com/srginko/srginko/blob/main/img/graphic.gif?raw=true" />GitHub Stats:
+
+<div>
+    <img align="right" alt="GitHub Details" width="420px"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srginko&theme=github_dark" />
+    <img alt="GitHub Stats" width="200px"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srginko&theme=github_dark" />
+    <img alt="GitHub Top Langs" width="200px"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srginko&theme=github_dark" />
+</div>
 -----
