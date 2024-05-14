@@ -4,10 +4,13 @@
     <img align="center" alt="Header"
         src="https://github.com/srginko/srginko/blob/main/img/banner.png?raw=true" />
 </div>
-
+<br>
+<br>
+<br>
+<br>
 
 <div align="justify">
-    <i><b>Olá</b> :wave:, sou o <code>Pedro Monteiro</code>, uma de minhas paixões e programar, atualmente estou estudando algumas liguagens como <code>JavaScript<code/>, <code>Ajax<code/> e <code>Node<code/> aqui no GitHub está alguns de meus projetos feitos durante minha carreira de estudante ou projetos pessoais e também um pouco sobre mim e minha práticas na hora de <code>codar<code/> .</i> :man_teacher:<br />
+    <i><b>Olá</b> :wave:, sou o <code>Pedro Monteiro</code>, uma de minhas paixões e programar, atualmente estou estudando algumas liguagens como <code>JavaScript<code/>, <code>Ajax<code/> e <code>Node<code/> aqui no GitHub está alguns de meus projetos feitos durante minha carreira de estudante ou projetos pessoais e também um pouco sobre mim e minha práticas na hora de <code>codar<code/> .</i><br />
 </div>
 
 
