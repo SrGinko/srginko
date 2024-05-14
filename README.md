@@ -80,7 +80,6 @@
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
     </div>
 </div>
-    <div align = "right"> <img src = "https://images.rawpixel.com/dark_image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3N2MTk5MTczLWltYWdlLnBuZw.png" /> </div>
 </div>
 <br>
 <br>
