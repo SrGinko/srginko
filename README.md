@@ -33,7 +33,7 @@
                         src="https://github.com/srginko/srginko/blob/main/img/linkedin.png?raw=true"
                         width="32px" height="32px" /></a>
             </td>
-            <td><a href="pedeohenriquecardoso@gmail.com" target="_blank"><img
+            <td><a href="mailto:pedeohenriquecardoso@gmail.com" target="_blank"><img
                         src="https://github.com/srginko/srginko/blob/main/img/google.png?raw=true"
                         width="32px" height="32px" /></a>
             </td>
