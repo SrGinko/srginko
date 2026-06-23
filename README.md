@@ -134,24 +134,6 @@ Além dos estudos, gosto de criar sistemas completos, desde a arquitetura do ban
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srginko&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
-
-</div>
-
----
-
-# 🐍 Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/srginko/srginko/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
 ---
 
 <div align="center">
