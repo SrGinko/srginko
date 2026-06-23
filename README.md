@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/srginko/srginko/blob/main/img/banner.png?raw=true"/>
+<img src="https://github.com/srginko/srginko/blob/main/img/banner.png?raw=true" />
 
 # Pedro Monteiro
 
-💻 Full Stack Developer em formação
+💻 Desenvolvedor Full Stack em formação
 
-🚀 Desenvolvendo aplicações Web, Bots para Discord, APIs e Desktop Apps.
+🚀 Apaixonado por desenvolvimento Web, Bots para Discord, APIs REST e aplicações Desktop.
 
 </div>
 
@@ -16,19 +16,21 @@
 
 Olá! Sou Pedro Monteiro.
 
-Atualmente estudo e desenvolvo projetos utilizando:
+Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecossistema JavaScript e .NET.
 
-- JavaScript
-- TypeScript
+### Atualmente focado em:
+
 - Node.js
+- TypeScript
 - React
 - Next.js
 - NestJS
 - PostgreSQL
 - Electron
 - Discord.js
+- C#
 
-Gosto de criar aplicações completas, desde a API até a interface, além de desenvolver bots para Discord e ferramentas para automação.
+Além dos estudos, gosto de criar sistemas completos, desde a arquitetura do banco de dados até a interface do usuário.
 
 ---
 
@@ -36,43 +38,43 @@ Gosto de criar aplicações completas, desde a API até a interface, além de de
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pedro-henrique-cardoso-monteiro-a2095124b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:pedeohenriquecardoso@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="mailto:pedeohenriquecardoso@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pedro-henrique-cardoso-monteiro-a2095124b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://discordapp.com/users/770818264691114016">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Back-End
+## Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" />
 </p>
 
-### Banco de Dados
+## Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,cs,java" />
+</p>
+
+## Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### Ferramentas
+## Ferramentas
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,electron,unity" />
@@ -80,47 +82,80 @@ Gosto de criar aplicações completas, desde a API até a interface, além de de
 
 ---
 
-## 📊 Estatísticas
+# 📂 Projetos em Destaque
+
+### 🤖 Bots Discord
+
+- Sistema de XP
+- Economia
+- Música
+- Integração com APIs
+- IA
+- SQLite e PostgreSQL
+
+### 🖥️ Aplicações Desktop
+
+- Electron
+- TypeScript
+- Gerenciamento de chamados
+- Organização de tarefas
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=srginko&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srginko&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=srginko&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srginko&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Projetos em Destaque
+# 🔥 Sequência de Contribuições
 
-### 🤖 Bots para Discord
+<div align="center">
 
-- Sistemas de economia
-- Sistemas de nível (XP)
-- Integração com APIs
-- Player de música
-- Inteligência Artificial
+<img src="https://github-readme-streak-stats.herokuapp.com?user=srginko&theme=github-dark&hide_border=true"/>
 
-### 🌐 Desenvolvimento Web
+</div>
 
-- APIs REST
-- Painéis Administrativos
-- Sistemas de autenticação
-- Dashboards
+---
 
-### 🖥️ Desktop
+# 📈 Activity Graph
 
-- Aplicações Electron
-- Automação de tarefas
-- Ferramentas internas
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srginko&theme=github-compact" />
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=srginko&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/srginko/srginko/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Sempre estudando e construindo novos projetos
+### 🚀 Sempre aprendendo, sempre construindo.
 
 </div>
